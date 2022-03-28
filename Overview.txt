@@ -1,0 +1,4 @@
+- I have installed React Router and Styled-Components.
+- Imported BrowserRouter from react-router-dom.
+- Linked the Home page, Register page, Login page and Products Page.
+- Used Styled-Components for Navbar.
